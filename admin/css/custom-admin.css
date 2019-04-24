@@ -1,0 +1,216 @@
+/*forbidden.html start*/
+
+#forbidden {
+	margin: 0 auto;
+	width: 250px;
+	margin-top: 100px;
+}
+
+#forbidden img {
+	display: block;
+}
+
+#forbidden h3 {
+	margin-left: 8%;
+}
+
+
+/*forbidden.html end*/
+
+/*pages.php start*/
+
+#table-view {
+	margin: 0 auto;
+	margin-top: 2%;
+	width: 800px !important;
+}
+
+table {
+	word-wrap:break-word;
+	table-layout: fixed;
+
+}
+
+th, td {
+    width: 80px;
+}
+
+#pages {
+	width: 600px !important;
+	margin-left: 20px;
+}
+
+#pages_backend {
+	width: 500px !important;
+}
+
+#print-view {
+	color: red;
+}
+
+
+/*pages.php end*/
+
+/*main.php start*/
+main {
+	margin-bottom: 100px;
+}
+
+#charts {
+	margin-top: 30px;
+
+}
+
+#charts h1 {
+	width: 300px;
+	margin: 0 auto;
+}
+#charts h2 {
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 5%;
+}
+
+.chart-num-of-alumni {
+	margin: 0 auto;
+	height: 300px;
+	width: 600px !important;
+	display: inline-block;
+}
+
+.chart-num-of-alumni-rating {
+	margin: 0 auto;
+	height: 300px;
+	width: 600px !important;
+	display: inline-block;
+}
+
+.log {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.log h1{
+	margin-top: 10% !important;
+	width: 50px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.log textarea {
+    resize: none;
+    text-align: left;
+    text-indent: none;
+}
+
+/*main.php end*/
+
+/*search.php start*/
+
+#search {
+	margin-top: 50px !important;
+	margin: 0 auto;
+}
+
+#search-btn {
+	float: right;
+}
+
+#alert-error {
+	display: none;
+	float: left;
+	color: red;
+}
+
+/*search.php end*/
+
+
+/*setting.php start*/
+
+#setting-container {
+	margin: 0 auto;
+	margin-top: 100px;
+	height: 225px;
+}
+
+#change-pass-btn {
+	float: right;
+}
+
+#hidden-prompt {
+	float: left;
+	position: absolute;
+	color: orange;
+}
+
+
+/*setting.php end*/
+
+/*footer.php start*/
+footer {
+	width: 100%;
+	border-top: #f2f2f2 solid 1px;
+}
+
+footer #footer-img {
+	margin-top: 10px;
+	background-image: url("../img/seal.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	
+}
+footer #footer-img-desc {
+	display: inline-block;
+
+}
+
+footer #footer-img-desc small {
+	text-align: left;
+	float: right;
+
+}
+
+/*footer.php end*/
+
+/*add_account.php start*/
+#add-account {
+	margin: 0 auto;
+}
+
+
+/*add_account.php end*/
+
+
+/*header.php start*/
+#highschool-mode-link {
+	float: right;
+}
+
+/*add_course_college.php start*/
+
+#add-college-btn {
+	float: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#add-course-btn, #rm-college-btn, #rm-course-btn {
+	margin-top: 5px;
+	float: right;
+}
+
+/*add_course_college.php end*/
+
+/*archive.php start*/
+
+#archive-table {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+/*archive.php end*/

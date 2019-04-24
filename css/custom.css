@@ -1,0 +1,91 @@
+/*index.php start*/
+
+#logo {
+	background-image: url("../img/seal.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#logo-desc {
+	display: inline-block;
+}
+
+#logo-desc h5 {
+	float: right;
+	margin-bottom: 30px;
+}
+
+footer {
+	width: 100%;
+	border-top: #f2f2f2 solid 1px;
+}
+
+footer #footer-img {
+	margin-top: 10px;
+	background-image: url("../img/seal.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	
+}
+footer #footer-img-desc {
+	display: inline-block;
+
+}
+
+footer #footer-img-desc small {
+	text-align: left;
+	float: right;
+
+}
+
+/*index.php end*/
+
+/*welcome.html start*/
+
+#welcome-inner {
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 385px;
+}
+
+#welcome-inner h1 {
+	width: 400px;
+	opacity: 0.8;
+}
+
+/*welcome.html end*/
+
+/*login.html start*/
+#login-box {
+	margin: 0 auto;
+}
+
+#inv-user-pass {
+	float: left;
+	display: block;
+}
+
+
+/*login.html end*/
+
+/*add_record.html start*/
+#add-record-box {
+	margin: 0 auto;
+}
+
+/*add_record.html end*/
